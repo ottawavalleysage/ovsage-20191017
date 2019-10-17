@@ -23,7 +23,10 @@ mkdir $WORKAREA
 cd $WORKAREA
 
 wget http://dl-cdn.alpinelinux.org/alpine/v3.10/releases/x86_64/alpine-minirootfs-3.10.2-x86_64.tar.gz
-wget http://dl-cdn.alpinelinux.org/alpine/v3.10/releases/x86_64/alpine-minirootfs-3.10.2-x86_64.tar.gz.sha256
+
+# Technically, we should use this and generate the sha256sum of the 
+# previous file to compare. If you wish to test, feel free to do so.
+# wget http://dl-cdn.alpinelinux.org/alpine/v3.10/releases/x86_64/alpine-minirootfs-3.10.2-x86_64.tar.gz.sha256
 
 # Build our base alpine inage
 
