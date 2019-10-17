@@ -1,6 +1,6 @@
 # ovSAGE/LOPSA-Ottawa Meeting
 
-### 2019-10-17 - Docker for running in a known environment
+### 2019-10-17 - Docker for running software in a known/consistent environment
 
 The instructions for tonight are fairly easy to manage, as we are going to take
 a break from messing with docker as a thing to study, and use it as a way to
