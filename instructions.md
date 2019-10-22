@@ -20,3 +20,9 @@ You should have two directories:
 Start with clmystery and cd to that. There are instructions there.
 
 Repeat for sql-mysteries.
+
+## Things we learned
+
+- If you are going to use this as written, you need to use the same userid for docker-hub as well as on your computer.
+- If you get errors with "latest", chang ethe latest tag to the 3.10 version used.
+- There was inconsistent behaviour despite the fact we were all using macbook pros and brew for the basics. I do know that there were different versions of the OS in use, but the software (docker) version used was the same.
