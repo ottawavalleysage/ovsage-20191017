@@ -38,4 +38,9 @@ At this point, you are ready to roll.
 
 ## References
 
+### Mysteries
+
+[Command Line Mystery](https://github.com/veltman/clmystery.git)
+SQL Mysteries](https://github.com/NUKnightLab/sql-mysteries.git)
+
 I'll have to add those during the meeting.
