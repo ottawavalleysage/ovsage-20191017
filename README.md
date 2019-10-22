@@ -40,7 +40,9 @@ At this point, you are ready to roll.
 
 ### Mysteries
 
-[Command Line Mystery](https://github.com/veltman/clmystery.git)
-SQL Mysteries](https://github.com/NUKnightLab/sql-mysteries.git)
+- [Command Line Mystery](https://github.com/veltman/clmystery.git)
+- [SQL Mysteries](https://github.com/NUKnightLab/sql-mysteries.git)
 
-I'll have to add those during the meeting.
+### Alpine Containers
+
+The container script was based on this: [Alpine Linux from Scratch](https://github.com/skwashd/alpine-docker-from-scratch)
